@@ -77,7 +77,7 @@ The built JAR will be in `build/libs/`
 
 ## License
 
-### MIT License
+### Creative Commons
 
 ## Credits
 Made By Sonic.OMT Aka Gisus Cryst
