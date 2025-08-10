@@ -80,5 +80,5 @@ The built JAR will be in `build/libs/`
 ### MIT License
 
 ## Credits
-
+Made By Sonic.OMT Aka Gisus Cryst
 Created with ❤️ for the Minecraft modding community!
