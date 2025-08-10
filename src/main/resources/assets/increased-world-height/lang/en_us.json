@@ -1,0 +1,11 @@
+{
+  "key.increased-world-height.open_config": "Open World Height Config",
+  "category.increased-world-height": "Increased World Height",
+  "config.increased-world-height.title": "World Height Configuration",
+  "config.increased-world-height.max_height": "Maximum World Height",
+  "config.increased-world-height.max_height.tooltip": "Controls the maximum build height in the world",
+  "config.increased-world-height.min_y": "Minimum Y Limit",
+  "config.increased-world-height.min_y.tooltip": "Sets the lowest Y coordinate players can reach",
+  "config.increased-world-height.sea_level": "Sea Level",
+  "config.increased-world-height.sea_level.tooltip": "Determines the Y level where oceans generate"
+}

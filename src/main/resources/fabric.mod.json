@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "increased-world-height",
+	"version": "${version}",
+	"name": "Increased World Height",
+	"description": "Customize world height limits with professional sliders for Maximum World Height, Minimum Y Limit, and Sea Level!",
+	"authors": [
+		"OMT"
+	],
+	"contact": {
+		"homepage": "https://github.com/OMT",
+		"sources": "https://github.com/OMT/increased-world-height"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/increased-world-height/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.omt.IncreasedWorldHeight"
+		],
+		"client": [
+			"com.omt.IncreasedWorldHeightClient"
+		],
+		"modmenu": [
+			"com.omt.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"increased-world-height.mixins.json",
+		{
+			"config": "increased-world-height.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

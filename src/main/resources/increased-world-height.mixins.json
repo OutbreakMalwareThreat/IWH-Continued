@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.omt.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"DimensionTypeMixin",
+		"ChunkGeneratorMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

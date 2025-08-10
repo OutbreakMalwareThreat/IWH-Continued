@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.omt.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"CreateWorldScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
