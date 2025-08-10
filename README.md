@@ -77,7 +77,7 @@ The built JAR will be in `build/libs/`
 
 ## License
 
-CC0-1.0 License
+### MIT License
 
 ## Credits
 
