@@ -27,7 +27,7 @@ A Minecraft Fabric mod that allows you to customize world height limits with pro
 5. Click "Save & Apply"
 
 ### Method 2: Keybinding
-- Press `H` key while in-game to open the configuration screen
+- Click The World Height Button In The World Creation Screen!
 
 ## Configuration
 
