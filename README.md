@@ -1,1 +1,1 @@
-Permanetly Discontinued
+Permanently Discontinued
